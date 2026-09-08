@@ -231,6 +231,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0344-reverse-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0567-permutation-in-string/) | Medium |
+| [0796-rotate-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0796-rotate-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -280,6 +281,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0796-rotate-string/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
