@@ -47,6 +47,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0240-search-a-2d-matrix-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0414-third-maximum-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -124,6 +125,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0125-valid-palindrome](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0443-string-compression/) | Medium |
