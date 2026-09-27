@@ -77,6 +77,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0229-majority-element-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0268-missing-number/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0567-permutation-in-string/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -161,6 +162,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0229-majority-element-ii/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +234,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0151-reverse-words-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0796-rotate-string/) | Easy |
@@ -309,4 +312,8 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
