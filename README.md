@@ -230,6 +230,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0125-valid-palindrome/) | Easy |
@@ -246,6 +247,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0020-valid-parentheses/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -325,6 +327,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
