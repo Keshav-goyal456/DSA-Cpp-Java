@@ -140,6 +140,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0011-container-with-most-water/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +243,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0443-string-compression](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0796-rotate-string/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Stack
@@ -249,6 +251,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0020-valid-parentheses/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Sliding Window
@@ -328,6 +331,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
