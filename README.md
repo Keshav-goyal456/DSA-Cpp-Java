@@ -318,6 +318,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0075-sort-colors/) | Medium |
 | [1051-height-checker](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1051-height-checker/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -337,4 +338,8 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
