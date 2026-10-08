@@ -40,6 +40,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0162-find-peak-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0179-largest-number/) | Medium |
 | [0204-count-primes](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0217-contains-duplicate/) | Easy |
@@ -143,6 +144,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0011-container-with-most-water/) | Medium |
+| [0179-largest-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0179-largest-number/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Sorting
@@ -153,6 +155,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0075-sort-colors](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0242-valid-anagram/) | Easy |
@@ -242,6 +245,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0125-valid-palindrome](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0179-largest-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
