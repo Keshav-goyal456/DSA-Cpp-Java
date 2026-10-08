@@ -1,6 +1,9 @@
 class Solution {
 
     public void mergesort(int[] nums, int left, int right){
+        if(left>=right){
+            return;
+        }
         if(left<right){
             int mid=left+(right-left)/2;
 
