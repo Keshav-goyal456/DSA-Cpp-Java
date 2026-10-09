@@ -43,6 +43,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0179-largest-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0179-largest-number/) | Medium |
 | [0204-count-primes](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -116,6 +117,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0004-median-of-two-sorted-arrays](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0912-sort-an-array/) | Medium |
 ## Two Pointers
@@ -156,6 +158,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0088-merge-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0179-largest-number/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0242-valid-anagram/) | Easy |
@@ -292,6 +295,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Backtracking
@@ -365,4 +369,8 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0912-sort-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
