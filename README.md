@@ -70,6 +70,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [1572-matrix-diagonal-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1929-concatenation-of-array/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0179-largest-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0179-largest-number/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +173,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [1051-height-checker](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1051-height-checker/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
