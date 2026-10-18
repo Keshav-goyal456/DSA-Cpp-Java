@@ -119,6 +119,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0004-median-of-two-sorted-arrays](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0190-reverse-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0912-sort-an-array/) | Medium |
@@ -216,6 +217,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0078-subsets](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0190-reverse-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0287-find-the-duplicate-number/) | Medium |
