@@ -69,6 +69,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [1470-shuffle-the-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1470-shuffle-the-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1929-concatenation-of-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -113,6 +114,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0633-sum-of-square-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +176,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0977-squares-of-a-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1051-height-checker/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Counting
