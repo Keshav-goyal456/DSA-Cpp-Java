@@ -228,6 +228,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0050-powx-n/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0509-fibonacci-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0509-fibonacci-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -383,4 +384,8 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
