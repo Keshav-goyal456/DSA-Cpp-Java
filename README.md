@@ -230,6 +230,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/0206-reverse-linked-list/) | Easy |
@@ -391,6 +392,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/0206-reverse-linked-list/) | Easy |
