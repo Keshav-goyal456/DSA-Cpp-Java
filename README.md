@@ -193,6 +193,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0050-powx-n/) | Medium |
@@ -232,6 +233,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -394,6 +396,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
