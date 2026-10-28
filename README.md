@@ -132,6 +132,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0011-container-with-most-water](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -393,6 +394,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0203-remove-linked-list-elements/) | Easy |
