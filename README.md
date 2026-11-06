@@ -65,6 +65,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0912-sort-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1051-height-checker/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1470-shuffle-the-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -115,6 +116,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0633-sum-of-square-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -151,6 +153,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0633-sum-of-square-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -180,6 +183,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0912-sort-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1051-height-checker/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Keshav-goyal456/DSA-Cpp-Java/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/3536-maximum-product-of-two-digits/) | Easy |
